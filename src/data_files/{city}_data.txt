@@ -1,0 +1,1 @@
+{"Aidenbachstra\u00dfe": [27, 25, 29, 4, 19], "Alte heide": [26, 13, 24, 31, 14], "Am Hart": [25, 13, 23, 30, 6], "Arabellapark": [24, 20, 28, 29, 22], "Basler Stra\u00dfe": [4, 32, 30, 34, 24], "Bonner Platz": [19, 15, 15, 17, 17]}
